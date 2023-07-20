@@ -10,7 +10,7 @@ file with the name Inertial signals is the raw file, which we can directly use f
 
 #### 1.1 Data Cleaning
 Checking for duplicate/ repetitive features.
-Checking for NA/NAN value.
+Checking for NA/NaN value.
 
 #### 1.2 Checking for data imbalance
 Plotting the bar graphs for each subject and their respective collected data.
