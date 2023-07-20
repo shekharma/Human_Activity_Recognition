@@ -37,3 +37,6 @@ Comparing all model performances.
 
 ### Step 5: LSTM: Large Short-Term Memory (Sequential deep learning model)
 Here we apply a simple LSTM model on raw data(Inertial Signals)
+
+
+##### Library: python, pandas, numpy, tensorflow, keras, sci-kit learn
