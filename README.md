@@ -2,7 +2,7 @@
 In this project, you'll learn different machine-learning algorithms for recognizing/predicting human activity.
 
 ## Workflow
-Library : numpy, pandas, tensorflow, keras, sci-kit learn
+Library : numpy, pandas, tensorflow, keras, scikit-learn
 ### Step 1: Dataset
 Here you can access the data using this link https://www.kaggle.com/datasets/drsaeedmohsen/ucihar-dataset
 The data is prepared with the help of 30 people using smartphones.
